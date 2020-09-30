@@ -34,6 +34,14 @@ define('LOGGED_IN_SALT',   'BQYLUin1l&Z4,QM]2P|pdJ}qQu+o~;0qDp^|hu0@s]/>k9~?X: ]
 define('NONCE_SALT',       'fggP+p!N:[HGvFR&7uH)~3C6PIZ}}-N1KJd<^%VX6a<!vq:^;1d#Sl.V6]DW-5F;');
 
 /**
+ * WordPress Database Table prefix.
+ *
+ * You can have multiple installations in one database if you give each
+ * a unique prefix. Only numbers, letters, and underscores.
+ */
+$table_prefix = 'wp_';
+
+/**
  * WordPress debugging mode.
  *
  * Change this to true to enable the display of notices during development.
