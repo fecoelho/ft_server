@@ -1,7 +1,7 @@
 # ft_server
 O objetivo do ft_server é criar um servidor web capaz de executar um wordpress, um phpmyadmin e um banco de dados. Este servidor será executado em um container Docker, usando o Debian Buster.
 ***
-##ToC
+## ToC
 - [O que é o ft_server?](#o-que---o-ft_server)
 - [Como usar o ft_server?](#como-usar-o-ft_server)
   - [Instalando o Docker](#instalando-o-docker)
