@@ -71,3 +71,5 @@ Pronto! ✔️ O Docker já está instalado em seu computador.
 ```
 Pronto! ✔️ Agora basta abrir seu navegador de preferencia e acessar o `localhost`. Lá você vai ver um index que te leva ao WordPress e ao phpMyAdmin. Explore a vontade e veja que funciona!
 > :warning: Não se esqueça de mudar o `*Nome_da_Imagem*` e o `*Nome_do_Container*` para o que você preferir.
+***
+![GitHub top language](https://img.shields.io/github/languages/top/fecoelho/ft_server) ![Lines of code](https://img.shields.io/tokei/lines/github/fecoelho/ft_server)
