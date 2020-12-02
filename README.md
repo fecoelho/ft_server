@@ -63,7 +63,7 @@ Pronto! ✔️ O Docker já está instalado em seu computador.
 ```
 2º - Monte o container:
 ```console
-> docker run -d -p 80:80 -p 443:443 --name=*Nome_do_Container* *Nome_da_Imagem*
+> docker run --name *Nome_do_Container* -it -p 80:80 -p 443:443 *Nome_da_Imagem*
 ```
 Pronto! ✔️ Agora basta abrir seu navegador de preferencia e acessar o `localhost`. Lá você vai ver um index que te leva ao WordPress e ao phpMyAdmin. Explore a vontade e veja que funciona!
 > :warning: Não se esqueça de mudar o `*Nome_da_Imagem*` e o `*Nome_do_Container*` para o que você preferir.
