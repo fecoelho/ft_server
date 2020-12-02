@@ -10,7 +10,6 @@ O objetivo do ft_server é criar um servidor web capaz de executar um wordpress,
 - [Como usar o ft_server?](#como-usar-o-ft_server)
   - [Instalando o Docker](#instalando-o-docker)
   - [Iniciando o ft_server](#iniciando-o-ft_server)
--
 
 <a name="o-que---o-ft_server"></a>
 ### O que é o ft_server?
